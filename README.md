@@ -1,5 +1,7 @@
-<p>Clarusway<img align="right"
-  src="https://secure.meetupstatic.com/photos/event/3/1/b/9/600_488352729.jpeg"  width="15px"></p>
+
+
+  ![image](https://github.com/baharkose/Random-User-App/assets/110201916/c3794948-8736-4cc8-857f-d48e202484d4)
+
 
 # Random User App
 
