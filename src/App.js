@@ -7,7 +7,6 @@ import womanAgeSvg from "./assets/growing-up-woman.svg";
 import mapSvg from "./assets/map.svg";
 import phoneSvg from "./assets/phone.svg";
 import padlockSvg from "./assets/padlock.svg";
-import cwSvg from "./assets/cw.svg";
 import Footer from "./components/footer/Footer";
 import axios from "axios";
 
@@ -68,9 +67,7 @@ function App() {
 
   return (
     <main>
-      <div className="block bcg-orange">
-        <img src={cwSvg} alt="cw" id="cw" />
-      </div>
+      <div className="block bcg-orange"></div>
       <div className="block">
         <div className="container">
           <img
